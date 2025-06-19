@@ -1,0 +1,37 @@
+C:\Users\Dahir Muse Abdulle\Desktop\C# FINAL PROJECTS\SuperMarket Management System\SuperMarket Management System\bin\Debug\SuperMarket Management System.exe.config
+C:\Users\Dahir Muse Abdulle\Desktop\C# FINAL PROJECTS\SuperMarket Management System\SuperMarket Management System\bin\Debug\SuperMarket Management System.exe
+C:\Users\Dahir Muse Abdulle\Desktop\C# FINAL PROJECTS\SuperMarket Management System\SuperMarket Management System\bin\Debug\SuperMarket Management System.pdb
+C:\Users\Dahir Muse Abdulle\Desktop\C# FINAL PROJECTS\SuperMarket Management System\SuperMarket Management System\obj\Debug\SuperMarket Management System.csproj.AssemblyReference.cache
+C:\Users\Dahir Muse Abdulle\Desktop\C# FINAL PROJECTS\SuperMarket Management System\SuperMarket Management System\obj\Debug\SuperMarket Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dahir Muse Abdulle\Desktop\C# FINAL PROJECTS\SuperMarket Management System\SuperMarket Management System\obj\Debug\SuperMarket_Management_System.Properties.Resources.resources
+C:\Users\Dahir Muse Abdulle\Desktop\C# FINAL PROJECTS\SuperMarket Management System\SuperMarket Management System\obj\Debug\SuperMarket Management System.csproj.GenerateResource.cache
+C:\Users\Dahir Muse Abdulle\Desktop\C# FINAL PROJECTS\SuperMarket Management System\SuperMarket Management System\obj\Debug\SuperMarket Management System.csproj.CoreCompileInputs.cache
+C:\Users\Dahir Muse Abdulle\Desktop\C# FINAL PROJECTS\SuperMarket Management System\SuperMarket Management System\obj\Debug\SuperMarket Management System.exe
+C:\Users\Dahir Muse Abdulle\Desktop\C# FINAL PROJECTS\SuperMarket Management System\SuperMarket Management System\obj\Debug\SuperMarket Management System.pdb
+C:\Users\Dahir Muse Abdulle\Desktop\C# FINAL PROJECTS\SuperMarket Management System\SuperMarket Management System\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\Dahir Muse Abdulle\Desktop\C# FINAL PROJECTS\SuperMarket Management System\SuperMarket Management System\bin\Debug\Guna.UI2.dll
+C:\Users\Dahir Muse Abdulle\Desktop\C# FINAL PROJECTS\SuperMarket Management System\SuperMarket Management System\obj\Debug\SuperMarket_Management_System.Login.resources
+C:\Users\Dahir Muse Abdulle\Desktop\C# FINAL PROJECTS\SuperMarket Management System\SuperMarket Management System\obj\Debug\SuperMarket_Management_System.Main.resources
+C:\Users\Dahir Muse Abdulle\Desktop\C# FINAL PROJECTS\SuperMarket Management System\SuperMarket Management System\obj\Debug\SuperMarket Management System.csproj.CopyComplete
+C:\Users\Dahir Muse Abdulle\Desktop\C# FINAL PROJECTS\SuperMarket Management System\SuperMarket Management System\obj\Debug\SuperMarket_Management_System.Category.resources
+C:\Users\Dahir Muse Abdulle\Desktop\C# FINAL PROJECTS\SuperMarket Management System\SuperMarket Management System\obj\Debug\SuperMarket_Management_System.Products.resources
+C:\Users\Dahir Muse Abdulle\Desktop\C# FINAL PROJECTS\SuperMarket Management System\SuperMarket Management System\obj\Debug\SuperMarket_Management_System.Seller.resources
+C:\Users\Dahir Muse Abdulle\Desktop\C# FINAL PROJECTS\SuperMarket Management System\SuperMarket Management System\obj\Debug\SuperMarket_Management_System.Selling.resources
+D:\C# FINAL PROJECTS\SuperMarket Management System\SuperMarket Management System\bin\Debug\SuperMarket Management System.exe.config
+D:\C# FINAL PROJECTS\SuperMarket Management System\SuperMarket Management System\bin\Debug\SuperMarket Management System.exe
+D:\C# FINAL PROJECTS\SuperMarket Management System\SuperMarket Management System\bin\Debug\SuperMarket Management System.pdb
+D:\C# FINAL PROJECTS\SuperMarket Management System\SuperMarket Management System\bin\Debug\Guna.Charts.WinForms.dll
+D:\C# FINAL PROJECTS\SuperMarket Management System\SuperMarket Management System\bin\Debug\Guna.UI2.dll
+D:\C# FINAL PROJECTS\SuperMarket Management System\SuperMarket Management System\obj\Debug\SuperMarket Management System.csproj.AssemblyReference.cache
+D:\C# FINAL PROJECTS\SuperMarket Management System\SuperMarket Management System\obj\Debug\SuperMarket_Management_System.Category.resources
+D:\C# FINAL PROJECTS\SuperMarket Management System\SuperMarket Management System\obj\Debug\SuperMarket_Management_System.Login.resources
+D:\C# FINAL PROJECTS\SuperMarket Management System\SuperMarket Management System\obj\Debug\SuperMarket_Management_System.Main.resources
+D:\C# FINAL PROJECTS\SuperMarket Management System\SuperMarket Management System\obj\Debug\SuperMarket_Management_System.Products.resources
+D:\C# FINAL PROJECTS\SuperMarket Management System\SuperMarket Management System\obj\Debug\SuperMarket_Management_System.Properties.Resources.resources
+D:\C# FINAL PROJECTS\SuperMarket Management System\SuperMarket Management System\obj\Debug\SuperMarket_Management_System.Seller.resources
+D:\C# FINAL PROJECTS\SuperMarket Management System\SuperMarket Management System\obj\Debug\SuperMarket_Management_System.Selling.resources
+D:\C# FINAL PROJECTS\SuperMarket Management System\SuperMarket Management System\obj\Debug\SuperMarket Management System.csproj.GenerateResource.cache
+D:\C# FINAL PROJECTS\SuperMarket Management System\SuperMarket Management System\obj\Debug\SuperMarket Management System.csproj.CoreCompileInputs.cache
+D:\C# FINAL PROJECTS\SuperMarket Management System\SuperMarket Management System\obj\Debug\SuperMarket Management System.exe
+D:\C# FINAL PROJECTS\SuperMarket Management System\SuperMarket Management System\obj\Debug\SuperMarket Management System.pdb
+D:\C# FINAL PROJECTS\SuperMarket Management System\SuperMarket Management System\obj\Debug\SuperMar.76A11D66.Up2Date
