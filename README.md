@@ -24,7 +24,7 @@ git clone https://github.com/yourusername/supermarket-ms.git
 
 ---
 
-✅ Step 2: Import the Project into Visual Studio
+### ✅ Step 2: Import the Project into Visual Studio
 
 1. Open Visual Studio.
 
